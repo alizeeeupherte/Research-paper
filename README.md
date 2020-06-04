@@ -13,11 +13,11 @@ First I studied the risk of flooding in Île-de-France, and in particular on the
 
 ![](1.png?raw=true)
 
-_Roof before fitting out_
+_The Seine is in the plain area where the rise of the waters is done gradually._
 
 ![](2.png?raw=true)
 
-_Roof before fitting out_
+_If a centennial flood were to occur in Ile de France today, this would affect 435,000 homes, 100,000 establishments would be exposed, 830,000 people, as well as 750,000 jobs._
 
 ![](3bis.png?raw=true)
 
@@ -25,11 +25,11 @@ _Flood in Ile de France in winter 2019._
 
 ![](4.png?raw=true)
 
-_Roof before fitting out_
+_The above document allows us to see, on the scale of Ile-de-France, the occupation of the municipal population in flood zones. We can see that the densest cities are also on the most floodable areas. These most populous municipalities are also the most exposed and are unsuitable in the face of a potential flood._
 
 ![](5.png?raw=true)
 
-_Roof before fitting out_
+_At all times, the centennial flood of January 1910 is the most significant with a height close to 9m. Here is the Seine bed for a 100 year flood._
 
 ![](6.png?raw=true)
 
