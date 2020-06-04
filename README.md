@@ -33,15 +33,13 @@ _At all times, the centennial flood of January 1910 is the most significant with
 
 ![](6.png?raw=true)
 
-_Roof before fitting out_
-
 ![](7.png?raw=true)
 
-_Roof before fitting out_
+_Industrial space also remains one of the most significant components of the Seine thanks to its flow of goods, people, boats, energy, primary materials and water treatment. The Seine and the two confluences of the Marne and the Oise favor the territorial interface and are two strategic poles. This is why I want to invest for my diploma project this site of confluence between the Seine and the Marne around the municipalities of Ivry-sur-Seine, Charenton-le-Pont and Alfortville. This territory reveals real potential for transformation. An urban project on this site will allow me to create new relationships between municipalities. It is a question of making existing and industrial heritage coexist with new urban challenges._
 
 ![](8.png?raw=true)
 
-_Roof before fitting out_
+_PPRI map of the risk of flood hazards for the municipalities of Ivry-sur-Seine, Charenton-le-Pont and Alfortville._
 
 ![](9.png?raw=true)
 
