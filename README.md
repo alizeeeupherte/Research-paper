@@ -13,82 +13,93 @@ First I studied the risk of flooding in Île-de-France, and in particular on the
 
 ![](1.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](2.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](3.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](4.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](5.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](6.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](7.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](8.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](9.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](10.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](11.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](12.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](13.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](14.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](15.png?raw=true)
 
-XXX
+_Roof before fitting out_
+
+
+
+In a second part, I explain, through the architectural project, how it is possible to link urban life and river water through architectural arrangements that make it possible to cope with the floods in an intelligent manner on an urban scale and then on a plot scale.
+
 
 ![](16.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](17.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](18.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](19.png?raw=true)
 
-XXX
+_Roof before fitting out_
 
 ![](20.png?raw=true)
 
-XXX
+_Roof before fitting out_
+
+
+
+This research was an opportunity for me to increase my knowledge of resilient projects in a fluvial environment to better live in a flood-prone area like the Ile-de-France.
+With the evolution of factors like that of global warming, I understood that the context in which we develop our strategies requires permanent adaptation.
+Thanks to this research, I could see that this constraint is the driving force behind the project and makes it possible to enhance the urban environment. Through my project, I want to integrate resilient developments at the urban scale as well as at the scale of the individual plot to allow an optimization of the built landscape in times of floods. I want to increase the safety of populations exposed to rising water levels by providing residents with a mixed program, complementary to the existing and innovative around smart urban infrastructure.
 
 
