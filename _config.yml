@@ -2,5 +2,5 @@ theme:theme: jekyll-theme-minimal
 logo: logoprojet.png
 description:
 github:
- is_project_page: false 
+ is_project_page: false
  
