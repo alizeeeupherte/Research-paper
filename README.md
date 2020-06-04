@@ -78,28 +78,28 @@ In a second part, I explain, through the architectural project, how it is possib
 
 ![](16.png?raw=true)
 
-_Roof before fitting out_
+_Controlling the rising waters of the river: the municipality of Rotterdam has developed an adaptation strategy for more resilient water management in general._
 
 ![](17.png?raw=true)
 
-_Roof before fitting out_
+_Controlling the trajectory of water: diagram of the water course of the Zac de Boulogne Billancourt by the TER agency through reservoir basins or the flow of water from the roofs of housing._
 
 ![](18.png?raw=true)
 
-_Roof before fitting out_
+_Build on stilts: First there is the upper enclosure and then the stilts. Building at height has the advantage of adapting to many topographical and geographical conditions and in particular makes it possible to reduce the danger faced with floods._
 
 ![](19.png?raw=true)
 
-_Roof before fitting out_
+_The floating structure: The floating structure is mounted on an aluminum platform with hard plastic floats._
 
 ![](20.png?raw=true)
 
-_Roof before fitting out_
+_The amphibious house: The lower part of the house lies flat on a tray. In the event of rising water, thanks to the buoyancy of the archimedes the water will slide under the house towards the basin, which will make the house go up, maintained by rails. The house is moored, the electrical conduits and conduits follow the movement of the water._
 
 
 
-This research was an opportunity for me to increase my knowledge of resilient projects in a fluvial environment to better live in a flood-prone area like the Ile-de-France.
+This research was an opportunity for me to increase my knowledge of resilient projects in a fluvial environment to better live in a flood area like in Ile-de-France.
 With the evolution of factors like that of global warming, I understood that the context in which we develop our strategies requires permanent adaptation.
-Thanks to this research, I could see that this constraint is the driving force behind the project and makes it possible to enhance the urban environment. Through my project, I want to integrate resilient developments at the urban scale as well as at the scale of the individual plot to allow an optimization of the built landscape in times of floods. I want to increase the safety of populations exposed to rising water levels by providing residents with a mixed program, complementary to the existing and innovative around smart urban infrastructure.
+Through my final project, I want to integrate resilient developments at the urban scale as well as at the scale of the individual plot to allow an optimization of the built landscape in times of floods. I want to increase the safety of populations exposed to rising water levels by providing residents with a mixed program, complementary to the existing and innovative around smart urban infrastructure.
 
 
