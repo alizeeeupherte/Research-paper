@@ -19,9 +19,9 @@ _Roof before fitting out_
 
 _Roof before fitting out_
 
-![](3.png?raw=true)
+![](3bis.png?raw=true)
 
-_Roof before fitting out_
+_Flood in Ile de France in winter 2019._
 
 ![](4.png?raw=true)
 
@@ -45,31 +45,27 @@ _Roof before fitting out_
 
 ![](9.png?raw=true)
 
-_Roof before fitting out_
-
 ![](10.png?raw=true)
 
-_Roof before fitting out_
+_Google earth images of my site._
 
 ![](11.png?raw=true)
 
-_Roof before fitting out_
+_Here is a diagram to better visualize my urban journey in terms of time. We can see the route during the week which connects the 3 municipalities which is completed on weekends once economic activities along the Seine are stopped._
 
 ![](12.png?raw=true)
 
-_Roof before fitting out_
+_The double challenge is to connect the river banks in the urban space between Ivry-sur-Seine, Charenton-le-Pont and Alfortville by maintaining the contribution of the port area to current metropolitan economic functions. Before, the banks represented rather a rupture in the city, notably marked by the motorways. Today I understand that these spaces on the banks of the Seine make it possible to set up a new urban model linking the banks to the city._
 
 ![](13.png?raw=true)
 
-_Roof before fitting out_
-
 ![](14.png?raw=true)
 
-_Roof before fitting out_
+_I will focus later for my end of study project on this strategic pole of this territorial interface between the Seine and the Marne in order to create a cultural center, notably around the rising waters._
 
 ![](15.png?raw=true)
 
-_Roof before fitting out_
+_First sketch of an urban stroll around the site that I want to invest with a submersion like a hundred year flood._
 
 
 
