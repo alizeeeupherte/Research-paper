@@ -77,7 +77,7 @@ _PPRI map of the risk of flood hazards for the municipalities of Ivry-sur-Seine,
 _Google earth images of my site._
 
 
-The double challenge is to connect the river banks in the urban space between Ivry-sur-Seine, Charenton-le-Pont and Alfortville by maintaining the contribution of the port area to current metropolitan economic functions. Before, the banks represented rather a rupture in the city, notably marked by the motorways. Today I understand that these spaces on the banks of the Seine make it possible to set up a new urban model linking directly to the city._
+The double challenge is to connect the river banks in the urban space between Ivry-sur-Seine, Charenton-le-Pont and Alfortville by maintaining the contribution of the port area to current metropolitan economic functions. Before, the banks represented rather a rupture in the city, notably marked by the motorways. Today I understand that these spaces on the banks of the Seine make it possible to set up a new urban model linking directly to the city.
 
 
 To pursue, you can see my [Final Project](https://alizeeeupherte.github.io/Final-Project/) here.
