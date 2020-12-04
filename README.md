@@ -76,22 +76,10 @@ _PPRI map of the risk of flood hazards for the municipalities of Ivry-sur-Seine,
 
 _Google earth images of my site._
 
-![](11.png?raw=true)
 
-The double challenge is to connect the river banks in the urban space between Ivry-sur-Seine, Charenton-le-Pont and Alfortville by maintaining the contribution of the port area to current metropolitan economic functions. Before, the banks represented rather a rupture in the city, notably marked by the motorways. Today I understand that these spaces on the banks of the Seine make it possible to set up a new urban model linking the banks to the city._
+The double challenge is to connect the river banks in the urban space between Ivry-sur-Seine, Charenton-le-Pont and Alfortville by maintaining the contribution of the port area to current metropolitan economic functions. Before, the banks represented rather a rupture in the city, notably marked by the motorways. Today I understand that these spaces on the banks of the Seine make it possible to set up a new urban model linking directly to the city._
 
-![](13.png?raw=true)
-
-![](14.png?raw=true)
-
-_I will focus later for my end of study project on this strategic pole of this territorial interface between the Seine and the Marne in order to create a cultural center, notably around the rising waters._
-
-![](15.png?raw=true)
-
-_First sketch of an urban stroll around the site that I want to invest with a submersion like a hundred year flood._
-
-
-
+After this analysis you can see my Final project here.
 
 
 #### This work was supervised by my diploma director Mr. Marc HYMANS architect and engineer, my diploma president Mr. Gaston TOLILA rchitect and associate engineer of the Atelier d'Architecture Tolila + Gilliland, my expert Mr. Michel HOESSLER landscape architect Partner of TER agency, Mikael HALTER architect, Peggie Garcia architect and Ary Justman architect partner of Rotunno Justman architects.
