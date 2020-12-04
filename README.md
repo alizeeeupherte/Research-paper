@@ -83,6 +83,6 @@ The double challenge is to connect the river banks in the urban space between Iv
 To pursue, you can see my [Final Project](https://alizeeeupherte.github.io/Final-Project/) here.
 
 
-#### This work was supervised by my diploma director Mr. Marc HYMANS architect and engineer, my diploma president Mr. Gaston TOLILA rchitect and associate engineer of the Atelier d'Architecture Tolila + Gilliland, my expert Mr. Michel HOESSLER landscape architect Partner of TER agency, Mikael HALTER architect, Peggie Garcia architect and Ary Justman architect partner of Rotunno Justman architects.
+#### This work was supervised by Miss Peggy Garcia, Mister Marc Hymans, Mister Gaston Tolila, Mister Michel Hoessler, Mister Mikael HALTER architect and Mister Ary Justman.
 
 
