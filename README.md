@@ -79,7 +79,8 @@ _Google earth images of my site._
 
 The double challenge is to connect the river banks in the urban space between Ivry-sur-Seine, Charenton-le-Pont and Alfortville by maintaining the contribution of the port area to current metropolitan economic functions. Before, the banks represented rather a rupture in the city, notably marked by the motorways. Today I understand that these spaces on the banks of the Seine make it possible to set up a new urban model linking directly to the city._
 
-After this analysis you can see my Final project here.
+
+To pursue, you can see my [Final Project](https://alizeeeupherte.github.io/Final-Project/) here.
 
 
 #### This work was supervised by my diploma director Mr. Marc HYMANS architect and engineer, my diploma president Mr. Gaston TOLILA rchitect and associate engineer of the Atelier d'Architecture Tolila + Gilliland, my expert Mr. Michel HOESSLER landscape architect Partner of TER agency, Mikael HALTER architect, Peggie Garcia architect and Ary Justman architect partner of Rotunno Justman architects.
